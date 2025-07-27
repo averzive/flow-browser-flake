@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Flow
+Exec=flow --ozone-platform-hint=auto %U
+Terminal=false
+Type=Application
+Icon=flow-browser
+StartupWMClass=Flow
+Comment=A modern privacy-focused browser with a minimalistic design.
+MimeType=x-scheme-handler/http;x-scheme-handler/https;
+Categories=Network;WebBrowser;
